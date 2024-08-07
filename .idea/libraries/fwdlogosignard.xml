@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fwdlogosignard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Multimedia/fwdlogosignard.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
